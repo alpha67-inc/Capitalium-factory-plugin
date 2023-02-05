@@ -1,0 +1,5 @@
+name: CapitaliumFactoryPlugin
+version: '${version}'
+main: capitaliumfactory.capitalium.Capitalium
+api-version: 1.19
+authors: [ vultorio ]
