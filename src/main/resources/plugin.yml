@@ -1,5 +1,7 @@
-name: CapitaliumFactoryPlugin
-version: '${version}'
-main: capitaliumfactory.capitalium.Capitalium
+name: Capitalium
+main: capitalium.capitalium.Capitalium
 api-version: 1.19
-authors: [ vultorio ]
+commands:
+  capitalium.givehammer:
+    description: give un hammer
+    permission: capitalium.givehammer
