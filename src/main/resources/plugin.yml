@@ -1,7 +1,11 @@
 name: Capitalium
-main: capitalium.capitalium.Capitalium
+version: '${version}'
+main: capitaliul.capitalium.Capitalium
 api-version: 1.19
+authors: [ vultorio ]
 commands:
-  capitalium.givehammer:
-    description: give un hammer
-    permission: capitalium.givehammer
+  kit:
+    description: Your description
+    usage: /<command>
+    permission: capitalium.kit
+
