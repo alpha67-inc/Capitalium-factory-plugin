@@ -1,0 +1,7 @@
+name: Capitalium
+main: capitalium.capitalium.Capitalium
+api-version: 1.19
+commands:
+  capitalium.givehammer:
+    description: give un hammer
+    permission: capitalium.givehammer
